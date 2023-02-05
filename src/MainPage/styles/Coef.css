@@ -1,0 +1,27 @@
+.result{
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+.textResult{
+    padding-left: 80px;
+    font-size: 130%;
+    font-weight: bold;
+}
+
+.coefResult{
+    display: flex;
+    flex-direction: column;
+}
+
+.coef{
+    margin-top: 10px;
+    margin-left: 47px;
+    width: 10vh;
+    background: lightgoldenrodyellow;
+    font-size: 120%;
+    cursor: pointer;
+
+}

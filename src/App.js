@@ -1,8 +1,9 @@
+import MainPage from "./MainPage/MainPage";
 
 function App() {
   return (
     <div>
-        123
+        <MainPage/>
     </div>
   );
 }

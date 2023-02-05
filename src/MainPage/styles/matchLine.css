@@ -1,0 +1,46 @@
+.teamName{
+    font-size: 140%;
+    background: transparent;
+    border: transparent;
+    font-weight: bold;
+}
+.teamNameBlock{
+    display: flex;
+    flex-direction: column;
+    height: 10vh;
+    width: 20vh;
+    padding-top: 4vh;
+    margin-left: 150px;
+}
+
+.vs{
+    font-size: 110%;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.Line{
+    margin-top: 5px;
+    margin-left: 23%;
+    display: flex;
+    flex-direction: row;
+    width: 53vw;
+    height: 16vh;
+    border: 2px solid black;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(255,140,140,1) 0%, rgba(249,255,0,1) 35%, rgba(249,255,0,1) 44%);
+}
+.image{
+    width: 15px;
+    height: 15px;
+    padding-top: 45px;
+    padding-left: 26px;
+}
+
+.Timer{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 50px;
+
+}

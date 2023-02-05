@@ -1,0 +1,15 @@
+.MainPage{
+    margin-top: 30px;
+
+}
+input[type=text] {
+    margin-left: 45%;
+    margin-top: 5%;
+    width:200px;
+    padding:20px;
+    box-sizing: border-box;
+    padding:10px;
+    border-radius:10px;
+    font-size: 120%;
+}
+
